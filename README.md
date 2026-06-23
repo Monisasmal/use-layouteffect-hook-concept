@@ -33,6 +33,27 @@ Whether you're learning React Hooks or preparing for frontend interviews, this p
 
 ---
 
+## 🚀 What is useLayoutEffect?
+
+The useLayoutEffect Hook runs synchronously after React updates the DOM but before the browser paints the screen.
+
+This allows developers to read layout information and make DOM adjustments before the user sees anything.
+
+Syntax
+
+useLayoutEffect(() => {
+
+   // Side effect logic
+
+   return () => {
+
+
+   };
+
+}, []);
+
+---
+
 
 ## 🙋‍♀️ Author -  Manaswini Sasmal
 
