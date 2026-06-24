@@ -94,6 +94,19 @@ Because it blocks browser painting, excessive usage may impact performance.
 
 ---
 
+## 🎯 Common Real-World Use Cases
+
+- Auto-resizing Textareas
+- Sticky Headers
+- Modal Positioning
+- Tooltips
+- Image Galleries
+- Scroll Restoration
+- Drag and Drop Interfaces
+- Custom Animations
+
+----
+
 
 ## 🙋‍♀️ Author -  Manaswini Sasmal
 
