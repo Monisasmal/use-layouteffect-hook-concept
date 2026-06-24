@@ -54,6 +54,46 @@ useLayoutEffect(() => {
 
 ---
 
+## Why useLayoutEffect?
+
+The browser paints the screen only after this hook completes.
+
+This makes it useful for:
+
+✅ Reading Layout Information
+
+✅ Measuring Heights
+
+✅ Measuring Widths
+
+✅ Updating Positions
+
+✅ Smooth Animations
+
+✅ Preventing Flickering
+
+✅ Scroll Restoration
+
+## 🚨 When NOT to Use useLayoutEffect
+
+Avoid using useLayoutEffect for:
+
+❌ API Calls
+
+❌ Fetch Requests
+
+❌ Timers
+
+❌ Local Storage Updates
+
+❌ Logging Events
+
+❌ Background Processes
+
+Because it blocks browser painting, excessive usage may impact performance.
+
+---
+
 
 ## 🙋‍♀️ Author -  Manaswini Sasmal
 
