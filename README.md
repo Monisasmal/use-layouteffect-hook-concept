@@ -107,6 +107,28 @@ Because it blocks browser painting, excessive usage may impact performance.
 
 ----
 
+## 📚 Learning Outcomes
+
+By exploring this project, you'll understand:
+
+✔ React Rendering Lifecycle
+
+✔ Browser Paint Process
+
+✔ DOM Measurements
+
+✔ Working with Refs
+
+✔ Preventing UI Flickers
+
+✔ Synchronous Effects
+
+✔ Performance Considerations
+
+✔ Best Practices for Side Effects
+
+----
+
 
 ## 🙋‍♀️ Author -  Manaswini Sasmal
 
