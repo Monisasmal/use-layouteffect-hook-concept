@@ -5,7 +5,7 @@ A comprehensive React project demonstrating the useLayoutEffect Hook, its lifecy
 This project helps developers understand how React performs DOM updates and when synchronous side effects are necessary to prevent visual inconsistencies.
 
 
-🌐 Live Demo 👉  [deployed URL here](https://use-layouteffect-hook-concept.vercel.app/)
+🌐 Live Demo 👉  [deployed URL here](https://use-memo-hook-concept.vercel.app/)
 
 ---
 
